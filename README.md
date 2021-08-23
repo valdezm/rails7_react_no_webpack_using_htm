@@ -6,3 +6,6 @@ Youtube video here:
 ## [I am actively seeking next opportunity-- 10+ years of Fullstack Experience, Rails/React/Typescript/more.. ](https://valdezm.com)
 
 ### [my resume](https://valdezm.com/files/Mark%20Valdez%20Resume%208-9-21-no-phone.pdf)
+
+
+![alt text](public/rails_s.png "What it looks like")
